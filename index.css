@@ -60,6 +60,10 @@ button {
     background: darkgreen;
 }
 
+#reset-btn {
+    background: darkred;
+}
+
 p {
     border: none;
     padding-top: 10px;
