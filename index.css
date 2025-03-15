@@ -1,5 +1,5 @@
 body { 
-    background-image: url("screamBone.jpg");
+    background-image: url("screamBone2b.jpg");
     background-size: cover;
     font-family: "Tektur", sans-serif;
     text-align: center;
@@ -46,7 +46,7 @@ button {
 }
 
 #btn-container {
-    margin: 200px auto 10px;
+    margin: 150px auto 10px;
 }
 
 #increment-btn {
