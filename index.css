@@ -51,14 +51,17 @@ button {
 
 #increment-btn {
     background: #0e1e30;
+    margin: 10px;
 }
 
 #save-btn {
     background: #4d838b;
+    margin: 10px;
 }
 
 #reset-btn {
     background: #f86624;
+    margin: 10px;
 }
 
 p {
@@ -67,7 +70,6 @@ p {
     padding-bottom: 10px;
     color: #0e1e30;
     font-weight: bold;
-    margin-bottom: 5px;
     border-radius: 5px;
     background: #d1e9cf;
     opacity: 0.7;
